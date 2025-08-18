@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Nhu
+
 ## **Professional Summary**
 
 Experienced software developer with strong expertise in **web development, cloud solutions, and AI applications**. Over 15 years of experience working on **e-commerce platforms**, building scalable applications, and delivering reliable solutions. Certified **AWS Solution Architect** and **AI Practitioner**, passionate about problem-solving, innovation, and continuous learning.
@@ -6,20 +7,20 @@ Experienced software developer with strong expertise in **web development, cloud
 
 ## **Core Skills**
 
-### **Web Development**
+### 🌐 Web Development
 
 * **Languages & Frameworks:** PHP, Go, Python, NodeJS, Ruby.
 * **E-commerce Development:** Many years of experience in building and maintaining online shops, payment systems, and order management.
 * **Backend Development:** Strong knowledge of API design, REST/GraphQL services, and database optimization.
 * **Problem-Solving:** Ability to write clean, maintainable code and solve complex technical issues quickly.
 
-### **Cloud & AWS**
+### ☁️ Cloud Computing (Cloud & AWS)
 
 * **AWS Services:** Hands-on experience with EC2, Lambda, S3, RDS, DynamoDB, API Gateway, CloudFormation, Terraform, CodePipeline, and more.
 * **Architecture Design:** Skilled in designing scalable, secure, and cost-effective cloud infrastructures.
 * **Serverless & DevOps:** Experience with serverless applications, CI/CD pipelines, and infrastructure automation.
 
-### **Artificial Intelligence (AI/ML)**
+### 🤖 Artificial Intelligence (AI/ML)
 
 * **AI Applications:** Built small AI-powered applications for automation and data-driven insights.
 * **Cloud AI Integration:** Knowledge of integrating AI solutions with AWS services.
