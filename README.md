@@ -35,3 +35,12 @@ Experienced software developer with strong expertise in **web development, cloud
 
 ---
 💡 You can also find me on [LinkedIn](https://www.linkedin.com/in/)  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tqnhu4&show_icons=true&theme=radical)
+
+### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tqnhu4&layout=compact&theme=radical)
+
