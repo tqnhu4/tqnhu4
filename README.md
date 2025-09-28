@@ -25,6 +25,7 @@ Experienced software developer with strong expertise in **web development, cloud
 * **AI Applications:** Built small AI-powered applications for automation and data-driven insights.
 * **Cloud AI Integration:** Knowledge of integrating AI solutions with AWS services.
 * **AWS Services:** Hands-on experience with Textract, Rekognition, Bedrock, and more.
+* **Libraries**: Tensor Flow, Pandas, PyTorch, Numpy, Matplotlib, SpaCy, Scikit-learn
 * **Data Handling:** Familiar with basic machine learning concepts, model deployment, and working with structured/unstructured data.
 
 ## 📜 Certifications
