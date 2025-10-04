@@ -38,6 +38,19 @@ Experienced software developer with strong expertise in **web development, cloud
 ---
 💡 You can also find me on [LinkedIn](https://www.linkedin.com/in/)  
 
+### 🚀 Cloud AI: Projects
+- [🔥 Image Moderation and Classification e-commerce platform]([https://github.com/username/project-a](https://github.com/tqnhu4/AI/tree/main/Projects/%5BBedrock%5D%203.Image%20moderation%20%26%20classification%20system%20for%20e-commerce%20platform))  
+  
+✨ With cutting-edge technologies like Amazon Rekognition and Amazon Bedrock, this project empowers e-commerce platforms to:
+
+🔹 Moderate images automatically – detect nudity, violence, drugs, alcohol, or even competitor logos before they ever go live.
+🔹 Extract and analyze text (OCR) – read every piece of text in product photos, from “100% Organic” to “Mega Sale,” and identify potential spam or excessive promotions.
+🔹 Classify product images – instantly recognize if an image belongs to Clothing, Electronics, Cosmetics, Food, and more, enabling smart auto-tagging and better search results.
+🔹 Return actionable insights – decide if the image is ✅ Valid or ❌ Invalid, assign the correct product category, and capture all relevant metadata.
+
+💡 Imagine a cleaner, safer, and smarter shopping experience—powered entirely by AI.
+
+  **Tech stack:** AWD Bedrock, Rekognition
 ---
 
 ### 📊 GitHub Stats
