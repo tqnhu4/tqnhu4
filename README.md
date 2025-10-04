@@ -50,7 +50,7 @@ Experienced software developer with strong expertise in **web development, cloud
 
 💡 Imagine a cleaner, safer, and smarter shopping experience—powered entirely by AI.
 
-  **Tech stack:** AWS Bedrock, AWS Rekognition.
+**Tech stack:** AWS Bedrock, AWS Rekognition.
 ---
 
 ### 📊 GitHub Stats
