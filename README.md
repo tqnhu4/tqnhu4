@@ -50,7 +50,8 @@ Experienced software developer with strong expertise in **web development, cloud
 
   💡 Imagine a cleaner, safer, and smarter shopping experience—powered entirely by AI.
 
-  **Tech stack:** AWS Bedrock, AWS Rekognition, Lambda, DynamoDB, API Gateway.
+  **Tech stack:** Python, Cloud, AI.
+  **Services:** AWS Bedrock, AWS Rekognition, Lambda, DynamoDB, API Gateway, S3.
   
 ---
 
