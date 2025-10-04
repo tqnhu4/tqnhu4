@@ -38,8 +38,8 @@ Experienced software developer with strong expertise in **web development, cloud
 ---
 💡 You can also find me on [LinkedIn](https://www.linkedin.com/in/)  
 
-### 🚀 Cloud AI: Projects
-- [🔥 Image Moderation and Classification e-commerce platform]([https://github.com/username/project-a](https://github.com/tqnhu4/AI/tree/main/Projects/%5BBedrock%5D%203.Image%20moderation%20%26%20classification%20system%20for%20e-commerce%20platform))  
+## 🚀 Cloud AI: Projects
+### [🔥 Image Moderation and Classification e-commerce platform](https://github.com/tqnhu4/AI/tree/main/Projects/%5BBedrock%5D%203.Image%20moderation%20%26%20classification%20system%20for%20e-commerce%20platform)  
   
 ✨ With cutting-edge technologies like Amazon Rekognition and Amazon Bedrock, this project empowers e-commerce platforms to:
 
