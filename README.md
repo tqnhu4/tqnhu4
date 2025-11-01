@@ -39,6 +39,12 @@ Experienced software developer with strong expertise in **web development, cloud
 💡 You can also find me on [LinkedIn](https://www.linkedin.com/in/)  
 
 ## 🚀 Cloud AI projects
+- ### [🔥 Semantic Search + RAG Application (Bedrock + OpenSearch)](https://www.youtube.com/watch?v=IfqwZUk6rtg)  
+  
+  **Tech stack:** Python, Cloud, AI.
+  
+  **Services:** AWS Bedrock, OpenSearch, AWS Step Functions, Lambda, DynamoDB, API Gateway, S3, CloudWatch, X-Ray.
+  
 - ### [🔥 Image Moderation and Classification e-commerce platform](https://github.com/tqnhu4/AI/tree/main/Projects/%5BBedrock%5D%203.Image%20moderation%20%26%20classification%20system%20for%20e-commerce%20platform)  
   
   ✨ With cutting-edge technologies like Amazon Rekognition and Amazon Bedrock, this project empowers e-commerce platforms to:
