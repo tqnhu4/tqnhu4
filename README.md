@@ -43,7 +43,7 @@ Experienced software developer with strong expertise in **web development, cloud
   
   **Tech stack:** Python, Cloud, AI.
   
-  **Services:** AWS Bedrock, OpenSearch, AWS Step Functions, Lambda, DynamoDB, API Gateway, S3, CloudWatch, X-Ray.
+  **Services:** AWS Bedrock, OpenSearch, DynamoDB, AWS Step Functions, Lambda, API Gateway, Event Bridge, S3, SNS, CloudWatch, Cloud Trail.
   
 - ### [🔥 Image Moderation and Classification e-commerce platform](https://github.com/tqnhu4/AI/tree/main/Projects/%5BBedrock%5D%203.Image%20moderation%20%26%20classification%20system%20for%20e-commerce%20platform)  
   
